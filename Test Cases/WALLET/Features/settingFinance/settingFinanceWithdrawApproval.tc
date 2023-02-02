@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>settingFinanceWithdrawApproval</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>36afb529-e59c-4717-8db3-a6c1f9cc9a3c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>62085453-f70b-445b-ae7e-41bf1130bc65</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>62085453-f70b-445b-ae7e-41bf1130bc65</id>
+      <masked>false</masked>
+      <name>actionResult</name>
+   </variable>
+</TestCaseEntity>

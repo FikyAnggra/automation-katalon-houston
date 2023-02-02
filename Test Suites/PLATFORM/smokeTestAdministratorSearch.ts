@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>smokeTestAdministratorSearch</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>9c2fa57b-e1d8-4782-bc73-d0c112ce2ae8</testSuiteGuid>
+   <testCaseLink>
+      <guid>cb7f6a60-e1ee-4e6c-bf57-8cedd5fc350d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/PLATFORM/FEATURES/administratorUsers/administratorSearch</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>abe1d014-421b-4def-9bad-3fd4edac856f</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/PLATFORM/administratorSearch</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>abe1d014-421b-4def-9bad-3fd4edac856f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>testCase</value>
+         <variableId>3341e1ae-2303-4c11-9424-19d342aeccc7</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>abe1d014-421b-4def-9bad-3fd4edac856f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>searchData</value>
+         <variableId>a8c604e8-fbc0-498d-bc3b-2db6fb96ed0e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>abe1d014-421b-4def-9bad-3fd4edac856f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>resultSearch</value>
+         <variableId>8710a0e4-5553-49ea-88d1-608ce17b52ec</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

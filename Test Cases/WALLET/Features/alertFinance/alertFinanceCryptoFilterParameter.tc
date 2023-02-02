@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>alertFinanceCryptoFilterParameter</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0b8f54e9-a275-4697-8848-e24c3d551236</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>86b3111a-b6ce-4caa-a408-2f4053d82d80</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c9ef9242-9bfd-488b-810d-427d972b4f68</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d26fc726-ff85-4cdf-97a4-8080e0eb7ea4</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>86b3111a-b6ce-4caa-a408-2f4053d82d80</id>
+      <masked>false</masked>
+      <name>value</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c9ef9242-9bfd-488b-810d-427d972b4f68</id>
+      <masked>false</masked>
+      <name>classdiv</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d26fc726-ff85-4cdf-97a4-8080e0eb7ea4</id>
+      <masked>false</masked>
+      <name>text</name>
+   </variable>
+</TestCaseEntity>

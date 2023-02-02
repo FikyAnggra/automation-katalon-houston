@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>savingPaginationTable</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dac62943-9480-4131-8788-4f96f784fe1b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d6a7e2a1-4978-4662-9165-f6d794119409</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fccedb9d-625a-44c4-9657-77de11aea7fc</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d6a7e2a1-4978-4662-9165-f6d794119409</id>
+      <masked>false</masked>
+      <name>testCase</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>fccedb9d-625a-44c4-9657-77de11aea7fc</id>
+      <masked>false</masked>
+      <name>totalPagination</name>
+   </variable>
+</TestCaseEntity>

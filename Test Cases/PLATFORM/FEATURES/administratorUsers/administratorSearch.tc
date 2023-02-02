@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>administratorSearch</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4dbbacd5-2309-46df-b313-d516c468422e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3341e1ae-2303-4c11-9424-19d342aeccc7</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a8c604e8-fbc0-498d-bc3b-2db6fb96ed0e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8710a0e4-5553-49ea-88d1-608ce17b52ec</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3341e1ae-2303-4c11-9424-19d342aeccc7</id>
+      <masked>false</masked>
+      <name>testCase</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a8c604e8-fbc0-498d-bc3b-2db6fb96ed0e</id>
+      <masked>false</masked>
+      <name>searchData</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8710a0e4-5553-49ea-88d1-608ce17b52ec</id>
+      <masked>false</masked>
+      <name>resultSearch</name>
+   </variable>
+</TestCaseEntity>

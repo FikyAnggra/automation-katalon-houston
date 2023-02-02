@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>dataAddPGService</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>b4cf3177-eee4-4d41-a25a-c4d37e7b338f</dataFileGUID>
+   <dataSourceUrl>C:\Users\Meilinda Zheng\Documents\NOBIAutomation\nobi-automation-katalon-bo-houston\Data\WALLET\CollectionDataWallet.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>PGSettingsAdd</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

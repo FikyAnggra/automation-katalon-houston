@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>buyPagination</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>90387046-eb43-473d-8cf3-93539f94bc4c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>89e2e6f5-c027-4033-a295-dbcd94813739</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b1487db8-57a3-474a-87f9-dd678a63d51f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>89e2e6f5-c027-4033-a295-dbcd94813739</id>
+      <masked>false</masked>
+      <name>testCase</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b1487db8-57a3-474a-87f9-dd678a63d51f</id>
+      <masked>false</masked>
+      <name>totalPagination</name>
+   </variable>
+</TestCaseEntity>

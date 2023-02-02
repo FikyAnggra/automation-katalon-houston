@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>regressionCollectionReportingFeatures</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>558c859c-368e-4889-8cfc-109f9dd18288</testSuiteGuid>
+   <testCaseLink>
+      <guid>c7eba3f2-a8a9-4711-89d3-dd1cb29c2ab5</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/PROEARN/collectionReporting/collectionFilter</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>5877ff16-b187-4c23-84d9-2b6d87d3fa6f</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/PROEARN/filterCoinList</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>5877ff16-b187-4c23-84d9-2b6d87d3fa6f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>testCase</value>
+         <variableId>5f72f74b-fa25-4534-8fb9-a680a2e61b62</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>5877ff16-b187-4c23-84d9-2b6d87d3fa6f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>filterBy</value>
+         <variableId>7b29df2e-cb0f-492c-b2de-0703a8d638a9</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>5877ff16-b187-4c23-84d9-2b6d87d3fa6f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>filterChoose</value>
+         <variableId>8331195e-ce52-4835-a300-1ff49e58b7d1</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>5877ff16-b187-4c23-84d9-2b6d87d3fa6f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>filterResult</value>
+         <variableId>dba7cc2b-db60-42b9-b861-5a84ad0109a3</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

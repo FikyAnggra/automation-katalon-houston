@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PGServiceAddPG</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0a86ef9e-ef47-43fb-bcb1-496b1c8a954e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6659f296-2a48-446f-afcf-d214352480cf</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9bea43b3-56d5-4acd-b6d3-eb775add8477</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8b380a3c-4a6a-41c4-88f4-36e4bd175b92</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6659f296-2a48-446f-afcf-d214352480cf</id>
+      <masked>false</masked>
+      <name>pg_name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9bea43b3-56d5-4acd-b6d3-eb775add8477</id>
+      <masked>false</masked>
+      <name>dis_cost</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8b380a3c-4a6a-41c4-88f4-36e4bd175b92</id>
+      <masked>false</masked>
+      <name>threshold</name>
+   </variable>
+</TestCaseEntity>

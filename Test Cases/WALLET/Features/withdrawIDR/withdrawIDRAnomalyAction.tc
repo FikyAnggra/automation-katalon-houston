@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>withdrawIDRAnomalyAction</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>966049ad-8fe5-4895-8f3d-8f213b3e5908</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e7a1e62d-dfbd-48b2-b7cd-09c829ab4f04</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e7a1e62d-dfbd-48b2-b7cd-09c829ab4f04</id>
+      <masked>false</masked>
+      <name>testCase</name>
+   </variable>
+</TestCaseEntity>

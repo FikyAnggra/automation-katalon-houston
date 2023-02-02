@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>regressionAlertIFinance</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>56caa53a-834e-404b-876c-4224013efdfe</testSuiteGuid>
+   <testCaseLink>
+      <guid>6d93eaea-a533-4c5b-9367-4f11bab376c6</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/WALLET/Features/alertFinance/alertFinanceIDRFilterParameter</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>adbae910-7771-48d8-8c81-fc64957a3858</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/WALLET/dataFilterAlertIDR</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>adbae910-7771-48d8-8c81-fc64957a3858</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>value</value>
+         <variableId>465bb06d-00bb-44c1-9c8e-e560e974a524</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>adbae910-7771-48d8-8c81-fc64957a3858</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>result</value>
+         <variableId>591483ae-928d-499a-be3b-d17a780efee3</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>5e757f8b-72e2-46a2-8c4e-c866c694387e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/WALLET/Features/alertFinance/alertFinanceCryptoFilterParameter</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>dd758c69-d273-47ce-9058-9d372fe19e82</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/WALLET/dataFilterAlertCrypto</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>dd758c69-d273-47ce-9058-9d372fe19e82</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>value</value>
+         <variableId>86b3111a-b6ce-4caa-a408-2f4053d82d80</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>dd758c69-d273-47ce-9058-9d372fe19e82</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>classdiv</value>
+         <variableId>c9ef9242-9bfd-488b-810d-427d972b4f68</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>dd758c69-d273-47ce-9058-9d372fe19e82</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>text</value>
+         <variableId>d26fc726-ff85-4cdf-97a4-8080e0eb7ea4</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

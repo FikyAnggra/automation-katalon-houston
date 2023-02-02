@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>loginHoustonPositive</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a2cebc65-919d-4c69-90e2-9a24da58b334</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d1ce1dfc-36e6-42a4-a21b-82b7a06da772</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>08e2294a-0afe-45f9-8a94-201efa3f512b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'luthfiani@usenobi.com'</defaultValue>
+      <description></description>
+      <id>d1ce1dfc-36e6-42a4-a21b-82b7a06da772</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'s9XPkkDKqpu/XIOTnYME3A=='</defaultValue>
+      <description></description>
+      <id>08e2294a-0afe-45f9-8a94-201efa3f512b</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>twoElementTagByParameter</name>
+   <tag></tag>
+   <elementGuidId>bbef61e4-f640-48ba-ba55-a67dbc771a97</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//${elementTagOne}[@${elementParameterOne}=&quot;${elementValueOne}&quot;]//${elementTagTwo}[@${elementParameterTwo}=&quot;${elementValueTwo}&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

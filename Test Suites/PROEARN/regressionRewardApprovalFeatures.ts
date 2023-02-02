@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>regressionRewardApprovalFeatures</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>058b568d-8f52-4359-a9d1-e999cbe6d9df</testSuiteGuid>
+   <testCaseLink>
+      <guid>a0d1e6d0-3815-44e6-9c79-9e0a124f39f9</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/PROEARN/rewardApproval/rewardApprovalHistoryFilter</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>60883dac-8a15-43a8-b19c-65d6c8e1fb7b</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/PROEARN/filterCoinList</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>60883dac-8a15-43a8-b19c-65d6c8e1fb7b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>testCase</value>
+         <variableId>75c4545f-5adc-410f-af2a-86df30425463</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>60883dac-8a15-43a8-b19c-65d6c8e1fb7b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>filterBy</value>
+         <variableId>1c47bb0c-cff7-4eb0-a821-cea00a917a3e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>60883dac-8a15-43a8-b19c-65d6c8e1fb7b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>filterChoose</value>
+         <variableId>75690113-1a40-4708-a7cd-c133f2fd40a4</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>60883dac-8a15-43a8-b19c-65d6c8e1fb7b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>filterResult</value>
+         <variableId>7e7e7210-9416-4824-a7b2-6ee4dca0e4a9</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

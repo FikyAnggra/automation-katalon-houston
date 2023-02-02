@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>stakingPaginationTable</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1ceb8b92-b1f4-443b-aa3c-c8f1e8a8197b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0bd21d96-79d4-4d33-8506-d7ae3e089429</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8d680f7d-b265-4def-94cc-49ed5d49739e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0bd21d96-79d4-4d33-8506-d7ae3e089429</id>
+      <masked>false</masked>
+      <name>testCase</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8d680f7d-b265-4def-94cc-49ed5d49739e</id>
+      <masked>false</masked>
+      <name>totalPagination</name>
+   </variable>
+</TestCaseEntity>

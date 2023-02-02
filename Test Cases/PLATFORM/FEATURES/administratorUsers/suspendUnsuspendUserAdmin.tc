@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>suspendUnsuspendUserAdmin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b464210f-b89e-47dd-bb3c-ff9782ff60a1</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>83a5a99f-7f03-4090-b8d9-f07b0fdd9d54</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>33f6514e-3863-4f41-b41b-2387235d903d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'fifi@nobi.com'</defaultValue>
+      <description></description>
+      <id>83a5a99f-7f03-4090-b8d9-f07b0fdd9d54</id>
+      <masked>false</masked>
+      <name>searchData</name>
+   </variable>
+   <variable>
+      <defaultValue>'fifi@nobi.com'</defaultValue>
+      <description></description>
+      <id>33f6514e-3863-4f41-b41b-2387235d903d</id>
+      <masked>false</masked>
+      <name>resultSearch</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>smokeTestAddUserHouston</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>557469b9-068b-47f1-9038-58f048d6f8f8</testSuiteGuid>
+   <testCaseLink>
+      <guid>2717bb9f-76de-4e36-8e3b-88aaacd2075f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/PLATFORM/FEATURES/administratorUsers/addUserHouston</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>cc27b7e8-5b1d-4571-96ed-496dc97f4424</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/PLATFORM/addNewUserHouston</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>cc27b7e8-5b1d-4571-96ed-496dc97f4424</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>email</value>
+         <variableId>61357025-5dbf-4033-bf5f-a9921e582a68</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>cc27b7e8-5b1d-4571-96ed-496dc97f4424</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>name</value>
+         <variableId>e1eefe30-f673-4450-b560-3ba5e2a22b90</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>cc27b7e8-5b1d-4571-96ed-496dc97f4424</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>testCase</value>
+         <variableId>e7bcb79a-eac6-4611-aceb-dda421a8d062</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>cc27b7e8-5b1d-4571-96ed-496dc97f4424</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>alertMessage</value>
+         <variableId>05bf19fa-1984-4da7-b87f-ba003f94286d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>cc27b7e8-5b1d-4571-96ed-496dc97f4424</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>testType</value>
+         <variableId>d9e6fdfa-9efb-40dc-b196-46584ceb7d97</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

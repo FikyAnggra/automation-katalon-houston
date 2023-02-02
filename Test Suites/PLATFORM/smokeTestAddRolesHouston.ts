@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>smokeTestAddRolesHouston</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>a93ab72f-5425-43fd-b7bd-4f30bfc32f2e</testSuiteGuid>
+   <testCaseLink>
+      <guid>481e2d1c-6b85-46b2-83b9-56ee5657bc37</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/PLATFORM/FEATURES/administratorRoles/addNewRoleHouston</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>a31d0a24-0328-470c-aa4e-bb6dd971d58b</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/PLATFORM/dataAdministratorRoles/addNewRoleHouston</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>a31d0a24-0328-470c-aa4e-bb6dd971d58b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>testCase</value>
+         <variableId>8fe9ba98-2ef5-4a50-88cd-a530404a606c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>a31d0a24-0328-470c-aa4e-bb6dd971d58b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>roleName</value>
+         <variableId>705a1fdc-fc6d-411f-aa3b-37af2c670f68</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>a31d0a24-0328-470c-aa4e-bb6dd971d58b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>alertMessage</value>
+         <variableId>d586fd9d-2280-49c2-af66-bf32190d6443</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

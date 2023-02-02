@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>regressionSavingBatchFeatures</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>45772b00-585b-4329-a028-36a23110948d</testSuiteGuid>
+   <testCaseLink>
+      <guid>47207de4-9314-4b41-a6dd-3c59b8938060</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/PROEARN/savingBatch/savingBatchPaginationTable</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>ffaf3532-369e-4d57-9a12-23742ae4675b</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/PROEARN/paginationTable</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>ffaf3532-369e-4d57-9a12-23742ae4675b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>testCase</value>
+         <variableId>eb8eb8b9-1673-4b5e-9d78-21c57e20dfd2</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>ffaf3532-369e-4d57-9a12-23742ae4675b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>totalPagination</value>
+         <variableId>131926bd-b052-4ff1-99d8-ffa5ead15ec5</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>8a293165-2c85-4183-a1c9-ffe31f42420f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/PROEARN/savingBatch/headerSavingBatch</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+</TestSuiteEntity>

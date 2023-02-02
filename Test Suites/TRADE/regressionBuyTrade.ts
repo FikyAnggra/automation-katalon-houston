@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>regressionBuyTrade</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>d5d048bc-c16d-4b71-98b6-1195493194d3</testSuiteGuid>
+   <testCaseLink>
+      <guid>d1f8506a-be55-4653-814e-516ecff5e98a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TRADE/Features/buyPagination</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>8f653bac-5de9-4cd5-9010-cdd664f8e3bd</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/TRADE/dataPagination</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>8f653bac-5de9-4cd5-9010-cdd664f8e3bd</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>testCase</value>
+         <variableId>89e2e6f5-c027-4033-a295-dbcd94813739</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>8f653bac-5de9-4cd5-9010-cdd664f8e3bd</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>totalPagination</value>
+         <variableId>b1487db8-57a3-474a-87f9-dd678a63d51f</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

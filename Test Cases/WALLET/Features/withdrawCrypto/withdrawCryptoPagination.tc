@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>withdrawCryptoPagination</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>31519112-25c1-4d5a-95ba-4b96e9a34656</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3320fb4f-cf8f-4edb-a700-548cb6a07978</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>32a7f665-6b5d-4130-bc7e-3f627899fba5</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3320fb4f-cf8f-4edb-a700-548cb6a07978</id>
+      <masked>false</masked>
+      <name>testCase</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>32a7f665-6b5d-4130-bc7e-3f627899fba5</id>
+      <masked>false</masked>
+      <name>totalPagination</name>
+   </variable>
+</TestCaseEntity>

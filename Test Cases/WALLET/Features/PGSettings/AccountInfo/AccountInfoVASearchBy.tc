@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AccountInfoVASearchBy</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fc1abe1d-d05e-42bd-8e9c-3e20040f62df</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>40cade47-0a81-4fde-884a-268f28673ece</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ec723aa1-4fc6-490d-a2cb-9ee8f9ce7364</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>40cade47-0a81-4fde-884a-268f28673ece</id>
+      <masked>false</masked>
+      <name>searchBy</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ec723aa1-4fc6-490d-a2cb-9ee8f9ce7364</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+</TestCaseEntity>

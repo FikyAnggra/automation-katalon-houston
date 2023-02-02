@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PGServiceScheduledMaintenance</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>919b8f73-cc48-42d3-90ab-9d53e4468515</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7c40e72e-c70c-426c-8cef-cdc8934658f3</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b4eee3ef-c184-498a-885d-c904e917547e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>92581fa9-4b4a-45a3-a985-0b68a0e6a4f1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7c40e72e-c70c-426c-8cef-cdc8934658f3</id>
+      <masked>false</masked>
+      <name>filterChoose</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b4eee3ef-c184-498a-885d-c904e917547e</id>
+      <masked>false</masked>
+      <name>dateBegin</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>92581fa9-4b4a-45a3-a985-0b68a0e6a4f1</id>
+      <masked>false</masked>
+      <name>dateEnd</name>
+   </variable>
+</TestCaseEntity>
