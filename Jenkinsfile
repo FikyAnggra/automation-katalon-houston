@@ -14,8 +14,10 @@ pipeline {
         //Tahap kedua bernama "Test"
         stage('Test') {
             steps {
-//                 cd C:/Katalon_Studio_Windows_64-8.3.5
-                bat 'katalonc -noSplash -runMode=console -projectPath="C:/my doc/katalon-houston/nobi-automation-katalon-bo-houston.prj" -retry=0 -testSuitePath="Test Suites/PROEARN/regressionJenkins" -browserType="Chrome" -executionProfile="default" -apiKey="f8cfa5f4-7647-4503-9535-02e25a35711c" --config -proxy.auth.option=NO_PROXY -proxy.system.option=NO_PROXY -proxy.system.applyToDesiredCapabilities=true'
+                bat """
+                cd C:/Katalon_Studio_Engine_Windows_64-8.5.5
+                katalonc -noSplash -runMode=console -projectPath="C:/my doc/katalon-houston/nobi-automation-katalon-bo-houston.prj" -retry=0 -testSuitePath="Test Suites/PROEARN/regressionJenkins" -browserType="Chrome" -executionProfile="default" -apiKey="f8cfa5f4-7647-4503-9535-02e25a35711c" --config -proxy.auth.option=NO_PROXY -proxy.system.option=NO_PROXY -proxy.system.applyToDesiredCapabilities=true
+                """
             }
         }
     }
