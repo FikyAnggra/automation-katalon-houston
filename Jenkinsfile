@@ -14,7 +14,7 @@ pipeline {
         //Tahap kedua bernama "Test"
         stage('Test') {
             steps {
-              bat 'katalon -noSplash -runMode=console -projectPath="C:/Users/fikya/nobi-automation/nobi-automation-katalon-bo-houston" -testSuitePath="Test Suites/regressionEarn2.0Features" -browserType="Chrome" -retry=0 -statusDelay=15'
+              bat 'katalon -noSplash -runMode=ui -projectPath="C:/Users/fikya/nobi-automation/nobi-automation-katalon-bo-houston" -testSuitePath="Test Suites/regressionEarn2.0Features" -browserType="Chrome" -retry=0 -statusDelay=15'
             }
         }
     }
