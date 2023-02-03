@@ -14,7 +14,7 @@ pipeline {
         //Tahap kedua bernama "Test"
         stage('Test') {
             steps {
-              bat 'katalon -noSplash -runMode=console -projectPath="C:\ProgramData\Jenkins\.jenkins\workspace\automation-katalon-houston" -testSuitePath="Test Suites/regressionEarn2.0Features" -browserType="Chrome" -retry=0 -statusDelay=15'
+              bat 'katalon -noSplash -runMode=console -projectPath="C:/my doc/katalon-houston" -testSuitePath="Test Suites/regressionJenkins" -browserType="Chrome" -retry=0 -statusDelay=15'
             }
         }
     }
