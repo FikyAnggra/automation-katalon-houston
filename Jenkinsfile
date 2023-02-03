@@ -14,7 +14,7 @@ pipeline {
         //Tahap kedua bernama "Test"
         stage('Test') {
             steps {
-                bat "groovy C:/ProgramData/Jenkins/.jenkins/workspace/automation-katalon-houstonScripts/PROEARN/earn2.0/jenkins/Script1675416518177.groovy"
+                bat "groovy C:/ProgramData/Jenkins/.jenkins/workspace/automation-katalon-houston/Scripts/PROEARN/earn2.0/jenkins/Script1675416518177.groovy"
             }
         }
     }
