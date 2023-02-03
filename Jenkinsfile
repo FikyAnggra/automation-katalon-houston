@@ -14,7 +14,7 @@ pipeline {
         //Tahap kedua bernama "Test"
         stage('Test') {
             steps {
-                bat "katalon --project-path C:/ProgramData/Jenkins/.jenkins/workspace/automation-katalon-houston/nobi-automation-katalon-bo-houston.prj --test-suite-path Test Suites/PROEARN/regressionJenkins"
+                bat "groovy C:/ProgramData/Jenkins/.jenkins/workspace/automation-katalon-houstonScripts/PROEARN/earn2.0/jenkins/Script1675416518177.groovy"
             }
         }
     }
